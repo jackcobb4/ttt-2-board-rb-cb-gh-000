@@ -1,3 +1,2 @@
 # Define the variable board below.
-board=["hello" "welcome","yoyo","kiru","leave","it ", "some ", "who" 3]
-puts board
+board=["hello", "welcome","yoyo","kiru","leave","it ", "some ", "who" ,"3"]
